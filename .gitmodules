@@ -1,0 +1,3 @@
+[submodule "DevSecOps/ccat"]
+	path = DevSecOps/ccat
+	url = https://github.com/RhinoSecurityLabs/ccat.git
